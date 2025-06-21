@@ -1,5 +1,3 @@
-import React from 'react'
-
 // Container component simulation
 const Container = ({
 	children,
